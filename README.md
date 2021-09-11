@@ -6,5 +6,14 @@ This project is a simple example of a calculator and was bootstrapped with [expo
 cloning this project by
 
 ```
-yarn add s-calc
+git clone https://github.com/ilz5753/s-calc.git
+```
+
+then
+
+```
+cd s-calc
+```
+```
+expo start
 ```
