@@ -14,6 +14,21 @@ then
 ```
 cd s-calc
 ```
+
+for installing dependencies
+
+```
+yarn
+```
+
+or
+
+```
+yarn install
+```
+
+and finally
+
 ```
 expo start
 ```
